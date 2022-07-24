@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)
 
 <!--
 **LarryPallozziRevature1/LarryPallozziRevature1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
