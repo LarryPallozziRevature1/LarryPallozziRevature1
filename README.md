@@ -17,6 +17,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/240px-C_Sharp_wordmark.svg.png" alt="C#" width="40" height="40"/> </a> </p>
+<a href="https://en.wikipedia.org" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Microsoft_Azure#/media/File:Microsoft_Azure.svg" alt="C#" width="40" height="40"/> </a> </p>
 
 
 
